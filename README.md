@@ -1,1 +1,7 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jelwingeuan&theme=gruvbox&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+# Stats
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=jelwingeuan&show_icons=true&theme=dark"/>
+
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelwingeuan&theme=dark"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jelwingeuan&theme=dark&hide_border=false)
+
