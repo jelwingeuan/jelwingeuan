@@ -1,3 +1,6 @@
+hi im jelwin geuan, i code :)
+
+
 # Stats
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=jelwingeuan&show_icons=true&theme=dark"/>
 
