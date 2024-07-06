@@ -1,4 +1,4 @@
-hi im jelwin geuan, i code things :)
+hi im jelwin, i code things :)
 
 
 # Stats
